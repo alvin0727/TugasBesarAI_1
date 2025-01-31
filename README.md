@@ -14,6 +14,15 @@
 For more information about Pygame Zero, refer to the [official documentation](https://pygame-zero.readthedocs.io/en/stable/introduction.html).
 
 ---
+### Project Screenshot 📸
+
+Here’s a screenshot of the project in action:
+
+![Algorithm Visualizer Screenshot(1)](https://drive.google.com/file/d/1tkMH3ZZkX6Sk9dYJxnMfaBgG0rlVt6F_/view?usp=drive_link)
+![Algorithm Visualizer Screenshot(2)](https://drive.google.com/file/d/1W8Z4XpoIvyAh9K79OSTb92-rIX56XMau/view?usp=drive_link)
+![Algorithm Visualizer Screenshot(2)](https://drive.google.com/file/d/1vbvQLjTnmlajKgZ2ob4RshmWrqbgl13k/view?usp=drive_link)
+
+---
 
 ### Video Demonstration 🎥
 Watch the video demonstration on Instagram: [Pygame Zero Demo](https://www.instagram.com/reel/CxagydOpKwg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==).
