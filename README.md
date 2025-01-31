@@ -18,9 +18,9 @@ For more information about Pygame Zero, refer to the [official documentation](ht
 
 Here’s a screenshot of the project in action:
 
-![Algorithm Visualizer Screenshot(1)](https://drive.google.com/file/d/1tkMH3ZZkX6Sk9dYJxnMfaBgG0rlVt6F_/view?usp=drive_link)
-![Algorithm Visualizer Screenshot(2)](https://drive.google.com/file/d/1W8Z4XpoIvyAh9K79OSTb92-rIX56XMau/view?usp=drive_link)
-![Algorithm Visualizer Screenshot(2)](https://drive.google.com/file/d/1vbvQLjTnmlajKgZ2ob4RshmWrqbgl13k/view?usp=drive_link)
+![Algorithm Visualizer Screenshot(1)](https://github.com/alvin0727/TugasBesarAI_1/blob/main/image_readme/1.png)
+![Algorithm Visualizer Screenshot(2)](https://github.com/alvin0727/TugasBesarAI_1/blob/main/image_readme/2.png)
+![Algorithm Visualizer Screenshot(2)](https://github.com/alvin0727/TugasBesarAI_1/blob/main/image_readme/3.png)
 
 ---
 
